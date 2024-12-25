@@ -51,4 +51,4 @@ For OS-specific instructions:
 1. In **pgAdmin**, navigate to:
 2. Expand your database > Schemas > Public > Tables.
 3.Look for a table named spatial_ref_sys.
--Its presence confirms that the PostGIS extension is successfully installed.
+   - Its presence confirms that the PostGIS extension is successfully installed.
